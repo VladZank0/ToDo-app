@@ -75,7 +75,7 @@ body{
     padding-right: 20px;
     box-sizing: border-box;
     margin-bottom: 15px;
-    white-space:nowrap;
+    white-space: nowrap;
 }
 
 .tasks-list__text{
